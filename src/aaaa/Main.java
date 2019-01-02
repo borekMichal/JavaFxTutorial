@@ -23,6 +23,7 @@ public class Main extends Application {
         Scene scena = new Scene(root, 500,300);
 
         primaryStage.setTitle("Zarzadzanie użytkownikami");
+        primaryStage.setTitle("Zarzadzanie ");
 
         primaryStage.setScene(scena);
         primaryStage.show();
@@ -33,6 +34,8 @@ public class Main extends Application {
 
         root.getChildren().add(p);
         root.getChildren().add(b);
+
+
 
         //scena.
 
